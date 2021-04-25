@@ -71,7 +71,7 @@ codebase as the start to each week's assignment.
 ## How could tactics from your design approach be applied in future work?
 
 The ability to organize work efforts and execute them in a timely manner, in a logical order 
-is a skill that will server a developer well not only in their professional career but also 
+is a skill that will serve a developer well not only in their professional career but also 
 in life.
 
 ## How do I approach developing programs?
@@ -85,21 +85,20 @@ each field's data type.
 ## What new development strategies did you use while working on your 3D scene?
 
 During the course of this project, I used alot more guess and check than I am normally 
-comfortable with using. Without the aid of CAD I needed to constantly build and run 
-my application to determine if the picture in my head matched what was rendered on to
-the screen.
+comfortable with using. Without the aid of CAD I needed to constantly build and run my 
+application to determine if the picture in my head matched what was rendered on screen.
 
 ## How did iteration factor into your development?
 
 It was essential. The shear complexity of the final project was the culmination of over 
-40 hours work of work, which just wouldn't have been possible to do without delegating
-those efforts over the duration of the entire course.
+40 hours of work, which would have been impossible to do without delegating those efforts 
+over the duration of the entire course.
 
 ## How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 
-I think the existing development strategies that I use in my professional life worked, 
-however if I were able to give advise to my past self (or to future students in your class)
-it would be to better familiarize myself with the way C++ structure it's applications.
+I think the existing development strategies that I use in my professional life worked well. 
+However, if I were able to give advice to my past self (or to future students in this class)
+it would be to better familiarize yourself with the way C++ structures an application.
 
 I lost hours of productively simply trying to get header files to read from eachother in the 
 correct order. When it finally did work, I had sort of a "Frakenstein" system cobbled together.
@@ -107,9 +106,9 @@ correct order. When it finally did work, I had sort of a "Frakenstein" system co
 ## How can computer science help me in reaching my goals?
 
 I've been using "computer science" since I was 5 years old. It is an essential part of my life
-and not only has it provided me with a comfortable living but it has helped me to develop 
-useful skillsets in all areas of my life. The ability to break down situations into logical
-steps and then execute them to in focused "sprints" has helped me do everything from: getting 
+and not only has it provided me with a comfortable lifestyle but it has helped me to develop 
+useful skillsets in other areas of my life. The ability to break down situations into logical
+steps and then execute them in focused "sprints" has helped me do everything from: getting 
 a paycheck to assembling furniture from Ikea.
 
 ## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
@@ -130,4 +129,3 @@ just a highly wrappered version of underlying C++ functionalities.
 
 Allen, A. (2016, August 15). What is dependency hell? Retrieved April 25, 2021, from https://searchitoperations.techtarget.com/definition/dependency-hell
 Contieri, M. (2020, May 26). Fail fast PHILOSOPHY, Explained. Retrieved April 25, 2021, from https://hackernoon.com/fail-fast-philosophy-explained-si963vk9
-
